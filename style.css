@@ -1,4 +1,15 @@
-  #display table {
+
+/* File: sty,e.css
+GUI Assignment: Use JQuery Validation to error handle inputs within out webage
+Mihir Parekh, UMass Lowell Computer Science, Mihir_Parekh@student.uml.edu
+Copyright (c) 2023 by Mihir. All rights reserved. May be freely copied or
+excerpted for educational purposes with credit to the author.
+updated by MP on December, 2023 at 11:30 PM
+Description: In this assignment I learned about jquery validation and used it to check if 
+inputs are within -50 to 50 with rules and messages. Then I also added methods to check for specifics
+like if min is smaller than max and max is bigger than min, else don't make the table.  */
+
+ #display table {
     border-collapse: collapse;
     width: 100%;
   }
